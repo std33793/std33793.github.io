@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 [Sumin Gim - CV (2026).pdf](https://github.com/user-attachments/files/27208613/Sumin.Gim.-.CV.2026.pdf)
-<iframe src="path/to/[Sumin Gim - CV (2026).pdf](https://github.com/user-attachments/files/27208785/Sumin.Gim.-.CV.2026.pdf)" width="100%" height="600px"></iframe>
+<iframe src="path/to/[Sumin Gim - CV (2026).pdf]" width="100%" height="600px"></iframe>
 
