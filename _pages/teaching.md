@@ -17,6 +17,6 @@ author_profile: true
 
 ## Other Activities
 
-* English Teacher, If Language School (an English Academy), Busan (Sep. 2024 ~ Dec. 2024)
+* English Teacher, If Language School (an English Academy), Busan (Mar. 2024 ~ July 2024)
 * Volunteer English Teacher, Haneul-Garam Community Child Center, Busan (Jan. 2018 ~ Feb. 2018)
 * Volunteer English Teacher, Gangdong Elementary School (supported by Korean Foundation for Science and Creativity), Busan (Apr. 2017 ~ July 2017)
