@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Journal Paper (Work in Progress)
+* Tentative Title: "From Personal to Social: The Pervasive Impact of Gaslighting in Tennessee Williams’s A Streetcar Named Desire"
+
 ## Conference Paper Presentations
 
 * “Misty Boundary between Light and Darkness: Luminosity in Charles Dickens’s A Christmas Carol.” The 70th Anniversary International Conference of ELLAK (The English Language and Literature Association of Korea). Seoul, Korea, Dec. 13, 2024.
